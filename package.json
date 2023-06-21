@@ -1,0 +1,32 @@
+{
+  "name": "arkanoid",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel server src/index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickCelestino/arkanoid.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickCelestino/arkanoid/issues"
+  },
+  "homepage": "https://github.com/ErickCelestino/arkanoid#readme",
+  "devDependencies": {
+    "eslint": "^8.43.0",
+    "parcel": "^2.9.2",
+    "prettier": "^2.8.8",
+    "typescript": "^5.1.3",
+    "@typescript-eslint/eslint-plugin": "^5.60.0",
+    "@typescript-eslint/parser": "^5.60.0",
+    "eslint-config-prettier": "^8.8.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "parcel-bundler": "^1.12.5"
+  }
+}
