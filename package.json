@@ -19,14 +19,14 @@
   },
   "homepage": "https://github.com/ErickCelestino/arkanoid#readme",
   "devDependencies": {
-    "eslint": "^8.43.0",
-    "parcel": "^2.9.2",
-    "prettier": "^2.8.8",
-    "typescript": "^5.1.3",
     "@typescript-eslint/eslint-plugin": "^5.60.0",
     "@typescript-eslint/parser": "^5.60.0",
+    "eslint": "^8.43.0",
     "eslint-config-prettier": "^8.8.0",
     "eslint-plugin-prettier": "^4.2.1",
-    "parcel-bundler": "^1.12.5"
+    "parcel": "^2.9.2",
+    "parcel-bundler": "^1.12.5",
+    "prettier": "^2.8.8",
+    "typescript": "^5.1.3"
   }
 }
